@@ -1,8 +1,26 @@
 {
   "name": "vite-react-tailwind",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
+  "description": "A template containing vite+react using typescript and tailwind for styling.",
+  "keywords": [
+    "vite",
+    "react",
+    "tailwind",
+    "typescript"
+  ],
+  "homepage": "https://github.com/abkGami/vite-react-tailwind#readme",
+  "bugs": {
+    "url": "https://github.com/abkGami/vite-react-tailwind/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abkGami/vite-react-tailwind.git"
+  },
+  "license": "ISC",
+  "author": "abkGami",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
