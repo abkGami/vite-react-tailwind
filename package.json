@@ -1,12 +1,20 @@
 {
-  "name": "vite-react-tailwind",
-  "version": "0.0.0",
+  "name": "abkgami-react-tailwind",
+  "version": "1.0.1",
   "description": "A template containing vite+react using typescript and tailwind for styling.",
   "keywords": [
     "vite",
     "react",
     "tailwind",
-    "typescript"
+    "typescript",
+    "npm i abkgami-react-tailwind",
+    "abkgami-react-tailwind",
+    "react-tailwind",
+    "install vite with tailwind",
+    "vite react tailwind",
+    "vite react tailwind typescript",
+    "install vite react ",
+    "install vite react tailwind"
   ],
   "homepage": "https://github.com/abkGami/vite-react-tailwind#readme",
   "bugs": {
